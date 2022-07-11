@@ -29,3 +29,6 @@ Criada para calcular o preço do frete, levando em consieração o cepOrigem, ce
 "dataConsulta": "2022-07-11"
 }
 ```
+
+# Para acessar a documentação do Swagger
+- No navegador execute: localhost:8080/swagger-ui.html
